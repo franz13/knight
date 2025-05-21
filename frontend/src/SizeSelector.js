@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const options = [4, 5, 6, 7, 8];
+const options = [4, 5, 6, 7, 8, 9];
 
 function SizeSelector({ onSelect }) {
   const [size, setSize] = useState(options[0]);

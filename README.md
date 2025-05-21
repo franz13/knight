@@ -26,7 +26,7 @@ Joc cu mutarea calului pe o tablă de NxN (Knight's Tour), fullstack (React + No
 
 ## Funcționalități
 
-- Alegi dimensiunea tablei (4x4, 5x5, etc).
+- Alegi dimensiunea tablei (4x4, 5x5 ... până la 9x9).
 - Treci calul pe tablă conform regulilor.
 - Jocul se termină când nu mai ai mutări sau completezi toată tabla.
 
