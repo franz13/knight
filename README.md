@@ -1,6 +1,30 @@
 # Knight's Tour Game
 
-Joc cu mutarea calului pe o tablă de NxN (Knight's Tour), fullstack (React + Node.js).
+A simple fullstack application for the classic Knight's Tour puzzle built with React and Node.js.
+
+## Local Setup
+
+1. Install the root dependencies:
+   ```bash
+   npm install
+   ```
+2. Install the frontend dependencies:
+   ```bash
+   cd frontend
+   npm install
+   cd ..
+   ```
+3. Start the backend server:
+   ```bash
+   npm run start
+   ```
+4. In another terminal start the frontend:
+   ```bash
+   npm run client
+   ```
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
 
 ## Pornire locală
 
